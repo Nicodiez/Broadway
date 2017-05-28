@@ -1,0 +1,47 @@
+html {
+  font-family: Helvetica;
+}
+header{
+  background-image: url("/Users/MarceNico/Desktop/Projects/Broadway/resources/banner/the-flatiron-building.png");
+  text-align: center;
+}
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+.subtitle {
+  font-size: 18px;
+  color: white;
+  font-weight: bold;
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+  text-align: center;
+}
+p {
+  font-size: 14px;
+  text-align: center;
+}
+img {
+  display: block;
+  margin: auto;
+}
+h4 {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  background-image: url("/Users/MarceNico/Desktop/Projects/Broadway/resources/banner/the-flatiron-building.png");
+}
+footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
